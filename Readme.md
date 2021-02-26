@@ -11,6 +11,8 @@ Simple Linux shell written in C adapted from workshop by ACM IIT Roorkee Chapter
     * bglist
     * kill
     * ls
+    * pwd
+    * help
 
 * Executes external commands by forking child process.
 
