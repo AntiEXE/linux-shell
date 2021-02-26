@@ -48,7 +48,7 @@ int sh_help(char **args)
     printf("\n");
     
     printf("ACM shell bit modified by AntiEXE.\n");
-    printf("refer to the http://github.com/AntiEXE");
+    printf("refer to the https://github.com/AntiEXE/linux-shell");
     printf("These shell commands are defined internally.\n");
     printf("\n");
     
