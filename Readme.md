@@ -1,6 +1,6 @@
 # ACM-SH Linux Shell
 
-Simple Linux shell written in C adapted from workshop by ACM IIT Roorkee Chapter. 
+Simple Linux shell written in C adapted from workshop by ACM IIT Roorkee Student Chapter. 
 
 ### What Does It Do?
 
@@ -39,5 +39,5 @@ That's it you are in.
 ```
 
 ### Acknowledgments
-* ACM IIT Roorkee Chapter
+* ACM IIT Roorkee Student Chapter
 * https://brennan.io/2015/01/16/write-a-shell-in-c/
